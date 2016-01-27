@@ -1,0 +1,25 @@
+{
+  "name": "SamplePad",
+  "version": "0.1.0",
+  "summary": "A short description of SamplePad.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/SamplePad",
+  "license": "MIT",
+  "authors": {
+    "ELUMALAI_R": "ptsamy92@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/SamplePad.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "SamplePad": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

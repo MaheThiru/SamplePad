@@ -1,0 +1,6 @@
+framework module SamplePad {
+  umbrella header "SamplePad-umbrella.h"
+
+  export *
+  module * { export * }
+}

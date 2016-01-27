@@ -1,0 +1,14 @@
+PODS:
+  - SamplePad (0.1.0)
+
+DEPENDENCIES:
+  - SamplePad (from `../`)
+
+EXTERNAL SOURCES:
+  SamplePad:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SamplePad: fc08d962504727389c3104516bf773ac825db7f2
+
+COCOAPODS: 0.39.0
